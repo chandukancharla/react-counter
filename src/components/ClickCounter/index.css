@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+.matter-container {
+  text-align: center;
+  width: 40%;
+}
+.heading {
+  font-size: 35px;
+  color: #2d3a35;
+}
+.counterEl {
+  color: #c20a72;
+}
+.countBtn {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+.countBtn:hover {
+  cursor: pointer;
+  outline: none;
+}
